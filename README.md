@@ -1,7 +1,5 @@
 # OilPricePrediction
 The ability to predict oil prices would be a valuable asset for business, inventors, and governments. It would allow them to make informed decisions about how to manage their risk and take advantage of potential opportunities.
-# Oil Price Prediction
-
 ## Overview
 
 This project aims to predict oil prices based on historical data using machine learning models. Predicting oil prices can have significant implications for various industries, including energy, finance, and transportation. By understanding the trends and patterns in historical oil prices, we can make more informed decisions and mitigate risks associated with price fluctuations.
